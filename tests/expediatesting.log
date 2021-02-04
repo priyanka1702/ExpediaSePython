@@ -1,0 +1,62 @@
+03-02-2021 08:04:39 PM - ExpediaPage3 - INFO: *****Element Found*****
+03-02-2021 08:04:39 PM - ExpediaPage3 - INFO: Clicked on the Element - Locator://li//span[contains(text(),'Stays')] - LocType:xpath
+03-02-2021 08:04:39 PM - ExpediaPage3 - INFO: *****Element Found*****
+03-02-2021 08:04:40 PM - ExpediaPage3 - INFO: Sent data on the Element - Locator:uitk-faux-input - LocType:classname
+03-02-2021 08:04:40 PM - ExpediaPage3 - INFO: *****Element Found*****
+03-02-2021 08:04:03-02-2021 08:04:57 PM - Status - INFO: VERIFICATION SUCCESSFUL ::View in a map option
+03-02-2021 08:04:57 PM - Status - INFO: test_stays:TEST SUCCESSFUL
+3 - INFO: *****Element Found*****
+03-02-2021 08:04:41 PM - ExpediaPage3 - INFO: Clicked on the Element - Locator:d1-btn - LocType:id
+03-02-2021 08:04:41 PM - ExpediaPage3 - INFO: Selected date on the Element - Locator:d1-btn - LocType:id
+03-02-2021 08:04:41 PM - ExpediaPage3 - INFO: *****Element Found*****
+03-02-2021 08:04:41 PM - ExpediaPage3 - INFO: Clicked on the Element - Locator:d2-btn - LocType:id
+03-02-2021 08:04:42 PM - ExpediaPage3 - INFO: Selected date on the Element - Locator:d2-btn - LocType:id
+03-02-2021 08:04:42 PM - ExpediaPage3 - INFO: *****Element Found*****
+03-02-2021 08:04:56 PM - ExpediaPage3 - INFO: Clicked on the Element - Locator://button[contains(text(),'Search')] - LocType:xpath
+03-02-2021 08:04:56 PM - ExpediaPage3 - INFO: Waiting for maximium :: 50 :: seconds for element to be clickable
+03-02-2021 08:04:56 PM - ExpediaPage3 - INFO: Element appeared on the webpage
+03-02-2021 08:04:57 PM - ExpediaPage3 - INFO: Element did not appeared on the webpage
+- LocType:id
+03-02-2021 08:04:04 PM - ExpediaPage2 - INFO: *****Element Found*****
+03-02-2021 08:04:07 PM - ExpediaPage2 - INFO: Clicked on the Element - Locator://button[@data-testid='submit-button'] - LocType:xpath
+03-02-2021 08:04:07 PM - ExpediaPage2 - INFO: *****Element Found*****
+03-02-2021 08:04:08 PM - ExpediaPage2 - INFO: Clicked on the Element - Locator://button[@data-test-id='flights-trip-type-options-toggle'] - LocType:xpath
+03-02-2021 08:04:08 PM - ExpediaPage2 - INFO: Roundtrip
+03-02-2021 08:04:08 PM - ExpediaPage2 - INFO: One way
+03-02-2021 08:04:08 PM - ExpediaPage2 - INFO: Multi-city
+03-02-2021 08:04:08 PM - ExpediaPage2 - INFO: Selected option Multi-city on the Element - Locator://button[@data-test-id='flights-trip-type-options-toggle'] - LocType:xpath
+03-02-2021 08:04:08 PM - ExpediaPage2 - INFO: Wait 2 seconds for  
+03-02-2021 08:04:10 PM - ExpediaPage2 - INFO: *****Element Found*****
+03-02-2021 08:04:10 PM - ExpediaPage2 - INFO: Clicked on the Element - Locator://button[@data-test-id='flights-cabin-class-options-toggle'] - LocType:xpath
+03-02-2021 08:04:10 PM - ExpediaPage2 - INFO: First Class
+03-02-2021 08:04:10 PM - ExpediaPage2 - INFO: Selected option First Class on the Element - Locator://button[@data-test-id='flights-cabin-class-options-toggle'] - LocType:xpath
+03-02-2021 08:04:10 PM - ExpediaPage2 - INFO: Wait 2 seconds for  
+03-02-2021 08:04:12 PM - ExpediaPage2 - INFO: *****Element Found*****
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Clicked on the Element - Locator://button[@data-test-id='flights-airlines-options-toggle'] - LocType:xpath
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Any airline
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Advanced Air
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aegean
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aer Lingus
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aerocuahonte / Mayair
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aeroflot-Russian Airlines
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aerolineas Argentinas
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aeromar Airlines
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Aeromexico
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Air Algerie
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Air Astana
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Air Austral
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Air Baltic
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Air Botswana
+03-02-2021 08:04:13 PM - ExpediaPage2 - INFO: Air Canada
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air Choice One
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air Corsica
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air Dolomiti
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air Europa
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air Excursions LLC
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air France
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air Iceland Connect
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Air India
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Selected option Air India on the Element - Locator://button[@data-test-id='flights-airlines-options-toggle'] - LocType:xpath
+03-02-2021 08:04:14 PM - ExpediaPage2 - INFO: Wait 2 seconds for  
+03-02-2021 08:04:16 PM - ExpediaPage2 - INFO: Waiting for maximium :: 50 :: seconds for element to be clickable
+03-02-2021 08:04:17 PM - ExpediaPage2 - INFO: Element appeared on the webpage

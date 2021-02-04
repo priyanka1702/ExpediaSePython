@@ -1,0 +1,47 @@
+07-12-2020 08:09:31 PM - Status - INFO: VERIFICATION SUCCESSFUL ::Title Verified
+07-12-2020 08:09:32 PM - Status - INFO: VERIFICATION SUCCESSFUL ::Non-stop option verified
+07-12-2020 08:09:32 PM - Status - INFO: test_valid:TEST SUCCESSFUL
+07-12-2020 08:09:41 PM - Status - ERROR: VERIFICATION FAILED ::Title Verified
+07-12-2020 08:09:41 PM - Status - INFO: ***** Screen shot saved under: D:\PriyankaProjects\Project1_LetsKodeIt\screenshots\Title Verified_1607351981326.png *****
+07-12-2020 08:09:42 PM - Status - INFO: VERIFICATION SUCCESSFUL ::Non-stop option verified
+07-12-2020 08:09:42 PM - Status - ERROR: test_valid:TEST FAILED
+PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: Sent data on the Element - Locator://button[starts-with(@aria-label,'Going to')] - LocType:xpath
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: Clicked on the Element - Locator://strong[contains(text(),'Delhi')] - LocType:xpath
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: Clicked on the Element - Locator:d1-btn - LocType:id
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: Selected date on the Element - Locator:d1-btn - LocType:id
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:27 PM - ExpediaPage - INFO: Clicked on the Element - Locator:d2-btn - LocType:id
+07-12-2020 08:09:28 PM - ExpediaPage - INFO: Selected date on the Element - Locator:d2-btn - LocType:id
+07-12-2020 08:09:28 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:28 PM - ExpediaPage - INFO: Clicked on the Element - Locator://button[@data-testid='submit-button'] - LocType:xpath
+07-12-2020 08:09:31 PM - ExpediaPage - INFO: Title of the Page to verify: BLR to DEL flights
+07-12-2020 08:09:31 PM - ExpediaPage - INFO: Actual Title of the Page: BLR to DEL flights
+07-12-2020 08:09:31 PM - ExpediaPage - INFO: Title Verified
+07-12-2020 08:09:31 PM - ExpediaPage - INFO: Waiting for maximium :: 50 :: seconds for element to be clickable
+07-12-2020 08:09:31 PM - ExpediaPage - INFO: Element appeared on the webpage
+07-12-2020 08:09:35 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:35 PM - ExpediaPage - INFO: Clicked on the Element - Locator://span[contains(text(),'Flights')] - LocType:xpath
+07-12-2020 08:09:35 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:35 PM - ExpediaPage - INFO: Sent data on the Element - Locator://button[starts-with(@aria-label,'Leaving from')] - LocType:xpath
+07-12-2020 08:09:36 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:36 PM - ExpediaPage - INFO: Clicked on the Element - Locator://strong[contains(text(),'Seattle (SEA - All Airports)')] - LocType:xpath
+07-12-2020 08:09:36 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:37 PM - ExpediaPage - INFO: Sent data on the Element - Locator://button[starts-with(@aria-label,'Going to')] - LocType:xpath
+07-12-2020 08:09:38 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:38 PM - ExpediaPage - INFO: Clicked on the Element - Locator://strong[contains(text(),'San Francisco (SFO - San Francisco Intl.)')] - LocType:xpath
+07-12-2020 08:09:38 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:38 PM - ExpediaPage - INFO: Clicked on the Element - Locator:d1-btn - LocType:id
+07-12-2020 08:09:39 PM - ExpediaPage - INFO: Selected date on the Element - Locator:d1-btn - LocType:id
+07-12-2020 08:09:39 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:39 PM - ExpediaPage - INFO: Clicked on the Element - Locator:d2-btn - LocType:id
+07-12-2020 08:09:39 PM - ExpediaPage - INFO: Selected date on the Element - Locator:d2-btn - LocType:id
+07-12-2020 08:09:39 PM - ExpediaPage - INFO: *****Element Found*****
+07-12-2020 08:09:41 PM - ExpediaPage - INFO: Clicked on the Element - Locator://button[@data-testid='submit-button'] - LocType:xpath
+07-12-2020 08:09:41 PM - ExpediaPage - INFO: Title of the Page to verify: BLR to DEL flights
+07-12-2020 08:09:41 PM - ExpediaPage - INFO: Actual Title of the Page: SEA to SFO flights
+07-12-2020 08:09:41 PM - ExpediaPage - ERROR: Title Error
+07-12-2020 08:09:41 PM - ExpediaPage - INFO: Waiting for maximium :: 50 :: seconds for element to be clickable
+07-12-2020 08:09:42 PM - ExpediaPage - INFO: Element appeared on the webpage

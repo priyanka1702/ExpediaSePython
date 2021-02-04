@@ -1,0 +1,15 @@
+course search box = id="search-courses"
+search button =id="search-course-button"
+javascript option = //div[contains(text(),'JavaScript for beginners')]
+enroll button = id="enroll-button-top"
+use another card option = //button[contains(text(),'Use another card')]
+card num = //input[@name='cardnumber']
+exp date = //input[@name='exp-date']
+cvc = //input[@name='cvc']
+country = id="cardCountry"
+india option = //select[@id='cardCountry']/option[@value='IN']
+postal code = id="billingPostalCode"
+buy = //button[starts-with(text(),'Buy Now')]
+error msg = //div[@class='_3tIYs p-4-xs']//li[starts-with(text(),'Sorry')]
+//div[starts-with(@style,'max-height')]//a[contains(text(),'BlueAir')]
+git = git@3633
