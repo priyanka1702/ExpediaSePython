@@ -161,11 +161,8 @@ class SeleniumDriver():
         try:
             self.elementClick(locator,loctype)
             datestoselect = self.driver.find_element_by_xpath("//div[@class='uitk-new-date-picker-month'][1]/table/tbody")
-            #datestoselect = self.driver.find_element_by_xpath("//div[@class='uitk-date-picker-menu-months-container']/div[1]/table/tbody")#//button")
             validdates = datestoselect.find_elements_by_tag_name("button")
             for v in validdates:
-                #d = v.find_element_by_tag_name("button")
-                #self.log.info(v.get_attribute("aria-label"))
                 if ddate in str(v.get_attribute("aria-label")):
                     v.click()
                     break
@@ -173,12 +170,6 @@ class SeleniumDriver():
             self.log.info("Selected date on the Element - Locator:{} - LocType:{}".format(locator, loctype))
         except:
             self.log.info("Could not Select date on the Element - Locator:{} - LocType:{}".format(locator, loctype))
-            # self.log.info("date:{}".format(date))
-            # self.log.info("month:{}, validdates:{}".format(month,len(validdates)))
-            # self.log.info("validdate:{}".format(validdates[0].get_attribute("aria-label")))
-            # for v in validdates:
-            #     #d = v.find_element_by_tag_name("button")
-            #     self.log.info(v.get_attribute("aria-label"))
 
     def selecttrip(self,key,option,locator,loctype):
         # This method selects required options for the Trip.

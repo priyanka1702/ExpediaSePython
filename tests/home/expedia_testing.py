@@ -32,7 +32,7 @@ class TestingLogin(unittest.TestCase):
     @unpack
     def test_valid(self,fromlocation,tolocation,depdate,arrdate):
         self.searchloc.searchtest(fromlocation, tolocation, depdate, arrdate)
-        tobefound = self.searchloc.nonstopOption("//span[@data-test-id='stops-0-label']", "xpath")
+        tobefound = self.searchloc.nonstopOption("//div[@data-test-id='stops-0-label']", "xpath")
         self.ts.finalresult("test_valid",tobefound,"Non-stop option verified")
 
     @pytest.mark.run(order=1)

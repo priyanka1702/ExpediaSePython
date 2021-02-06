@@ -10,7 +10,7 @@ class Webdriverfactory():
         self.browser = browser
 
     def getdriverInstance(self):
-        baseurl = "https://www.expedia.com/"
+        baseurl = "https://www.expedia.com"
         driver = webdriver.Chrome(executable_path="C:\\expediaproject\\Chromedriver\\chromedriver.exe")
         driver.maximize_window()
         driver.implicitly_wait(10)
